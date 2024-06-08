@@ -9,6 +9,8 @@ import java.util.Random;
 /**
  * Controller handling the info pages - home, about, contact
  */
+// comments
+
 @Controller
 public class HomeController {
 
